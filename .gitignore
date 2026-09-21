@@ -1,0 +1,23 @@
+# Build output
+target/
+
+# Shaded JAR (if committed separately)
+*.jar
+
+# IntelliJ IDEA
+.idea/
+
+# Maven
+pom.xml.tmp
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Test scenario files (automated test inputs)
+test_scenario1.txt
+test_scenario2.txt
+test_startover.txt
+/.idea/
